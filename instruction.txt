@@ -1,0 +1,5 @@
+Simple instructions for using the RSS feed checker:
+1. You need server, for local use you can download cross-platform ex. XAMPP
+2. Import "data.sql" to your database
+3. In "connect.php" file change fields to your specyfic informations about host and database 
+4. Run "index.php" file in your host
